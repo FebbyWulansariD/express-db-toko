@@ -1,6 +1,7 @@
 # 🌸 Express DB Toko
 
-Project praktikum Node.js + Express + MySQL untuk menampilkan data pelanggan (`customers`) dari database `db_toko`.
+**Express DB Toko** adalah aplikasi web sederhana yang dibuat menggunakan **Node.js**, **Express.js**, dan **MySQL**.  
+Aplikasi ini menampilkan data pelanggan yang tersimpan di database `db_toko` melalui halaman web dinamis.
 
 ## 📘 Deskripsi
 Project ini menghubungkan server Express dengan database MySQL untuk mengambil data pelanggan dari tabel `customers`, yang memiliki kolom `cust_id`, `cust_name`, dan `cust_city`. Data ditampilkan ke pengguna menggunakan HTML, CSS, dan JavaScript.
