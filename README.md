@@ -1,4 +1,4 @@
-# express-db-toko
+# 🌸 Express DB Toko
 
 Project praktikum Node.js + Express + MySQL untuk menampilkan data pelanggan (`customers`) dari database `db_toko`.
 
